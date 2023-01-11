@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm NaokoKubo</h1>
-<h3 align="center">Interrupt LLC. CEO Engineer from Japan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naokokubo&label=Profile%20views&color=0e75b6&style=flat" alt="naokokubo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naokokubo" alt="naokokubo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/naoko_interrupt" target="blank"><img src="https://img.shields.io/twitter/follow/naoko_interrupt?logo=twitter&style=for-the-badge" alt="naoko_interrupt" /></a> </p>
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/naochi___/posts.svg)](http://qiita.com/naochi___)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/naochi___/contributions.svg)](http://qiita.com/naochi___)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/naochi___/followers.svg)](http://qiita.com/naochi___)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naoko_interrupt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naoko_interrupt" height="30" width="40" /></a>
