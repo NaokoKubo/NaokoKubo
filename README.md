@@ -1,4 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naokokubo&label=Profile%20views&color=0e75b6&style=flat" alt="naokokubo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naokokubo&label=Profile%20views&color=0e75b6&style=flat" alt="naokokubo" /></p>
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/naochi___/posts.svg)](http://qiita.com/naochi___)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/naochi___/contributions.svg)](http://qiita.com/naochi___)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/naochi___/followers.svg)](http://qiita.com/naochi___)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naokokubo" alt="naokokubo" /></a> </p>
 
@@ -14,6 +18,3 @@
 <a href="https://fb.com/naochi.interrupt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naochi.interrupt" height="30" width="40" /></a>
 </p>
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/naochi___/posts.svg)](http://qiita.com/naochi___)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/naochi___/contributions.svg)](http://qiita.com/naochi___)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/naochi___/followers.svg)](http://qiita.com/naochi___)
