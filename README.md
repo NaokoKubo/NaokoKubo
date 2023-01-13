@@ -19,3 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naokokubo&show_icons=true&locale=en" alt="naokokubo" /></p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naokokubo&" alt="naokokubo" /></p>
