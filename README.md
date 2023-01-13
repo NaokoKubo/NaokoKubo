@@ -4,9 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/naoko_interrupt" target="blank"><img src="https://img.shields.io/twitter/follow/naoko_interrupt?logo=twitter&style=for-the-badge" alt="naoko_interrupt" /></a> </p>
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/naochi___/posts.svg)](http://qiita.com/naochi___)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/naochi___/contributions.svg)](http://qiita.com/naochi___)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/naochi___/followers.svg)](http://qiita.com/naochi___)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naoko_interrupt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naoko_interrupt" height="30" width="40" /></a>
