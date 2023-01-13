@@ -13,3 +13,7 @@
 <a href="https://linkedin.com/in/naoko-kubo-9a2a2475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naoko-kubo-9a2a2475" height="30" width="40" /></a>
 <a href="https://fb.com/naochi.interrupt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naochi.interrupt" height="30" width="40" /></a>
 </p>
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/naochi___/posts.svg)](http://qiita.com/naochi___)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/naochi___/contributions.svg)](http://qiita.com/naochi___)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/naochi___/followers.svg)](http://qiita.com/naochi___)
